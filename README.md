@@ -8,3 +8,8 @@ http://rsos.royalsocietypublishing.org/content/4/1/160370
 The data and code can also be found here:
 
 http://datadryad.org/resource/doi:10.5061/dryad.83s93
+
+
+![ambient sound data](d3hu9binmobce5.cloudfront.net/content/royopensci/4/1/160370/F4.large.jpg)
+
+
