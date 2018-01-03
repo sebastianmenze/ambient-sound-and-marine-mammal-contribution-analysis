@@ -9,7 +9,12 @@ The data and code can also be found here:
 
 http://datadryad.org/resource/doi:10.5061/dryad.83s93
 
+Long term spectrogram of underwater ambient sound:
+![](F4.large.jpg)
 
-![ambient sound data](d3hu9binmobce5.cloudfront.net/content/royopensci/4/1/160370/F4.large.jpg)
+Calculating the marine mammal contribution to ambient sound:
+![](F2.large.jpg)
 
+Comparing ambient sound and sea ice metrics:
+![](F7.large.jpg)
 
